@@ -22,7 +22,7 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-[Image](/img/projectss.png)
+[Görsel dosyası buradadır](/img/projectss.png)
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
